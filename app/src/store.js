@@ -10,13 +10,15 @@ export default new Vuex.Store({
     secondary: {
       fontFamily: ''
     },
-    submittedBy:null
+    git:null,
+    name:null
   },
   mutations: {
-    newFont (state, { primary, secondary,submittedBy }) {
+    newFont (state, { primary, secondary,git }) {
       state.primary.fontFamily = primary
       state.secondary.fontFamily = secondary
-      state.submittedBy = 'https://github.com/'+submittedBy+'.png?size=40'
+      state.git = 'https://github.com/'+git
+      state.name = git
     }
   },
   actions: {
@@ -25,7 +27,7 @@ export default new Vuex.Store({
         context.commit('newFont', {
           primary: fonts.font.primary,
           secondary: fonts.font.secondary,
-          submittedBy:fonts.font.git
+          git:fonts.font.git
         })
       } else {
         context.commit('newFont', {

@@ -3,6 +3,7 @@ Here are the steps to contribute to this project:
 
 * Add your name to the `CONTRIBUTORS.md` file
 * Open the  `fonts.js` file in the app/src directory
+* Make a copy of the existing object and edit it  
 * Add a typeface combination for example `Montserrat` and `Open Sans` in primary and secondary keys respectively
 * Add your github username
 * Select those fonts you wish to combine from google fonts and add the link in `url` key
