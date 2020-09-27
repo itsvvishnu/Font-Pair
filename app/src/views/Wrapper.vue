@@ -14,7 +14,9 @@
         </div>
       </div>
       <div class="part">
-        <img src="@/assets/hacktober.svg" alt="">
+        <a href="https://hacktoberfest.digitalocean.com/">
+          <img src="@/assets/hacktober.svg" alt="">
+        </a>
       </div>
     </div>
   </div>

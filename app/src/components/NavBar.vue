@@ -5,7 +5,7 @@
         <h3 :style="$store.state.primary">Font Pair</h3>
       </div>
       <div class="select">
-        <v-select :options="options" label="title" @input="changeFont"  placeholder="Choose a font pair"></v-select>
+        <v-select :style="$store.state.secondary" :options="options" label="title" @input="changeFont"  placeholder="Choose a font pair"></v-select>
       </div>
     </nav>
   </div>
