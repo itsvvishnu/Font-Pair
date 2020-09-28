@@ -15,6 +15,10 @@
       .logo,.select{
         width: 50%;
       }
+      .select{
+        background-color: #ffffff1a;
+        border-radius: 6px;
+      }
       .logo{
         h3{
           font-size: 24px;
@@ -25,7 +29,8 @@
       color: #fafafa;
     }
     .vs__dropdown-toggle{
-      border: 1px solid #ffffff40;
+      margin: 0 5px;
+      border: none;
     }
     .vs__actions{
       svg{
@@ -37,7 +42,8 @@
         color: #fafafa;
       }
       .vs__search{
-        color: #ffffff57;
+        color: #848484;
+        
         font-family: 'Times New Roman', Times, serif;
       }
     }
