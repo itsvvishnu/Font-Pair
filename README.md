@@ -15,7 +15,7 @@ Make a pull request for your work and wait for it to be merged!
 * Clone your fork down to your local machine
 
 ```markdown
-git clone https://github.com/your-username/Font-Pair.git
+git clone https://github.com/your-username/Hacktoberfest2020.git
 ```
 
 * Create a branch
