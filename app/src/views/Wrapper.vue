@@ -2,6 +2,14 @@
   <div class="wrapper-container">
     <NavBar></NavBar>
     <div class="content">
+      <div class="loader" id="loader">
+        <div class="wrapper">
+          <span>Loading fonts</span>
+          <div class="line"></div>
+          <div class="subline inc"></div>
+          <div class="subline dec"></div>
+        </div>
+      </div>
       <div class="part">
         <h2 :style="$store.state.primary">Hacktoberfest</h2>
         <p :style="$store.state.secondary">

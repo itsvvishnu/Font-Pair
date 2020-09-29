@@ -33,6 +33,18 @@ export default {
       })
       if(font!=null){
         loadFont(font.url)
+        function checkFontsLoaded(){
+          let body = document.querySelector('body')
+          let loader = document.getElementById('loader')
+          loader.classList.add('active')
+          body.classList.remove("fade-in")
+          if (document.fonts.check(`1em ${font.primary}`) && document.fonts.check(`1em ${font.secondary}`)){
+            body.classList.add("fade-in")
+            loader.classList.remove('active')
+            clearInterval(areFontsLoaded)
+          }
+        }
+        let areFontsLoaded = setInterval(checkFontsLoaded,100)
       }
     }
   }
