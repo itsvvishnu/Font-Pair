@@ -7,4 +7,7 @@
 #### Name: [Ashwin KM](https://github.com/AshKemp)
 - Bio: Software Engineer
 - Github: [Ashwin KM](https://github.com/AshKemp)
+#### Name: [Deepak Dwivedi](https://github.com/Dvd1234)
+- Bio: Software Developer
+- Github: [Deepak Dwivedi](https://github.com/Dvd1234)
 
