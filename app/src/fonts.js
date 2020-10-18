@@ -44,6 +44,13 @@ export const fonts = () => {
       secondary: 'Roboto',
       git: 'jmannfeld',
       url: 'https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Space+Mono'
+    },
+    {
+      title: 'Raleway & Playfair Display',
+      primary: 'Raleway',
+      secondary: 'Playfair Display',
+      git: 'lkleindesigns',
+      url: 'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;800&family=Raleway:wght@500;800&display=swap'
     }
   ];
 };

@@ -10,4 +10,6 @@
 #### Name: [Deepak Dwivedi](https://github.com/Dvd1234)
 - Bio: Software Developer
 - Github: [Deepak Dwivedi](https://github.com/Dvd1234)
-
+#### Name: [Logan Klein](https://github.com/Lkleindesigns)
+- Bio: Web Developer
+- Github: [Logan Klein](https://github.com/Lkleindesigns)
