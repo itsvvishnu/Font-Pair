@@ -1,6 +1,14 @@
 export const fonts = () => {
   return [
     {
+      title: "Romanesco & Open sans",
+      primary: "Romanesco",
+      secondary: "Open Sans",
+      git: "Dvd1234",
+      url:
+        "https://fonts.googleapis.com/css2?family=Open+Sans&family=Romanesco&display=swap",
+    },
+    {
       title: "Montserrat & Open sans",
       primary: "Montserrat",
       secondary: "Open Sans",
