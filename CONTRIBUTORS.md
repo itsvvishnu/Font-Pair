@@ -13,3 +13,6 @@
 #### Name: [Logan Klein](https://github.com/Lkleindesigns)
 - Bio: Web Developer
 - Github: [Logan Klein](https://github.com/Lkleindesigns)
+#### Name: [Andrew Shin](https://github.com/andrewsnapz)
+- Bio: Software Engineer
+-Github: [Andrew Shin](https://github.com/andrewsnapz) 

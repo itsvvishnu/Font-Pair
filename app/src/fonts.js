@@ -51,6 +51,13 @@ export const fonts = () => {
       secondary: 'Playfair Display',
       git: 'lkleindesigns',
       url: 'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;800&family=Raleway:wght@500;800&display=swap'
+    },
+    {
+      title: 'Source Sans Pro 200 & Amiko',
+      primary: 'Source Sans Pro',
+      secondary: 'Amiko',
+      git: 'andrewsnapz',
+      url: 'https://fonts.googleapis.com/css2?family=Amiko&family=Source+Sans+Pro:wght@300&display=swap'
     }
   ];
 };
