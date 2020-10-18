@@ -16,5 +16,20 @@ export const fonts = () => {
       url:
         "https://fonts.googleapis.com/css2?family=Crimson+Pro&family=Literata",
     },
+  {
+      title:'Quando & Zilla Slab',
+      primary:'Quandot',
+      secondary:'Zilla Slab',
+      git:'madmaxWMFU',
+      url:'https://fonts.googleapis.com/css2?family=Quando&family=Zilla+Slab:ital,wght@0,400;0,500;0,600;1,400&display=swap'        
+    },
+    {
+      title:'Kalam & Lemonada',
+      primary:'Kalam',
+      secondary:'Lemonada',
+      git:'madmaxWMFU',
+      url:'https://fonts.googleapis.com/css2?family=Kalam&family=Lemonada&display=swap'        
+    }
   ];
 };
+
