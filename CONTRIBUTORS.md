@@ -15,7 +15,10 @@
 - Github: [Logan Klein](https://github.com/Lkleindesigns)
 #### Name: [Andrew Shin](https://github.com/andrewsnapz)
 - Bio: Software Engineer
--Github: [Andrew Shin](https://github.com/andrewsnapz) 
+- Github: [Andrew Shin](https://github.com/andrewsnapz) 
 #### Name: [Marwa Ragheb](https://github.com/marwa7246)
 - Bio: Web Developer
--Github: [Marwa Ragheb](https://github.com/marwa7246)
+- Github: [Marwa Ragheb](https://github.com/marwa7246)
+#### Name: [Greg Witt](https://github.com/GoodGuyGregory)
+- Bio: Software Engineer
+- Github: [Greg Witt](https://github.com/GoodGuyGregory)
