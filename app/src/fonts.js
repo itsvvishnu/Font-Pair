@@ -65,6 +65,41 @@ export const fonts = () => {
       secondary: 'Merriweather',
       git: 'marwa7246',
       url: 'https://fonts.googleapis.com/css2?family=Lora&family=Merriweather&display=swap'
+    },
+    {
+      title: 'Rancho with shadow-multiple Effect',
+      primary: 'Rancho',
+      secondary: 'shadow-multiple',
+      git: 'camiloibarrayepes',
+      url: 'https://fonts.googleapis.com/css?family=Rancho&effect=shadow-multiple'
+    },
+    {
+      title: 'Rancho with shadow-multiple Effect, 3d Float',
+      primary: 'Rancho',
+      secondary: 'shadow-multiple',
+      git: 'camiloibarrayepes',
+      url: 'https://fonts.googleapis.com/css?family=Rancho&effect=shadow-multiple|3d-float'
+    },
+    {
+      title: 'Architects Daughter',
+      primary: 'Architects',
+      secondary: 'Daughter',
+      git: 'camiloibarrayepes',
+      url: 'https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap'
+    },
+    {
+      title: 'Lobster Font',
+      primary: 'Lobster',
+      secondary: '',
+      git: 'camiloibarrayepes',
+      url: 'https://fonts.googleapis.com/css2?family=Lobster&display=swap'
+    },
+    {
+      title: 'Fascinate and Red Hat',
+      primary: 'Fascinate',
+      secondary: 'RedHat',
+      git: 'camiloibarrayepes',
+      url: 'https://fonts.googleapis.com/css2?family=Fascinate&family=Red+Hat+Text&display=swap'
     }
   ];
 };
