@@ -60,17 +60,17 @@ export const fonts = () => {
       url: 'https://fonts.googleapis.com/css2?family=Amiko&family=Source+Sans+Pro:wght@300&display=swap'
     },
     {
+      title: 'Markazi Text & Open sans',
+      primary: 'Markazi Text',
+      secondary: 'Open sans',
+      url: 'https://fonts.googleapis.com/css2?family=Markazi+Text:wght@450&display=swap'
+    },
+    {
       title: 'Lora & Merriweather',
       primary: 'Lora',
       secondary: 'Merriweather',
       git: 'marwa7246',
       url: 'https://fonts.googleapis.com/css2?family=Lora&family=Merriweather&display=swap'
-    },
-    {
-      title: 'Markazi Text & Open sans',
-      primary: 'Markazi Text',
-      secondary: 'Open sans',
-      url: 'https://fonts.googleapis.com/css2?family=Markazi+Text:wght@450&display=swap'
     }
   ];
 };
