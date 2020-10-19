@@ -52,8 +52,11 @@
       color: #fafafa;
       li{
         background-color: #151515;
+        color: #fafafa;
         &:hover{
           background-color: #202020;
+          color: #ff8ae2;
+          // color: #9c4668;
         }
       }
     }
