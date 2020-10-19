@@ -38,7 +38,16 @@ export default {
           let loader = document.getElementById('loader')
           loader.classList.add('active')
           body.classList.remove("fade-in")
-          if (document.fonts.check(`1em ${font.primary}`) && document.fonts.check(`1em ${font.secondary}`)){
+          let p,s = false
+          document.fonts.forEach(item => {
+            if(item.family == font.primary){
+              p = true
+            }
+            if(item.family == font.secondary){
+              s  = true
+            }
+          })
+          if ( p && s){
             body.classList.add("fade-in")
             loader.classList.remove('active')
             clearInterval(areFontsLoaded)
