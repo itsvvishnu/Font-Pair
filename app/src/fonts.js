@@ -106,6 +106,13 @@ export const fonts = () => {
       secondary: 'RedHat',
       git: 'camiloibarrayepes',
       url: 'https://fonts.googleapis.com/css2?family=Fascinate&family=Red+Hat+Text&display=swap'
+    },
+    {
+      title: 'PressStart2P and Quicksand',
+      primary: 'PressStart2P',
+      secondary: 'Quicksand',
+      git: 'goodguygregory',
+      url: 'https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Quicksand'
     }
   ];
 };
