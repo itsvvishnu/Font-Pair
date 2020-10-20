@@ -62,8 +62,8 @@ export const fonts = () => {
     {
       title: 'Markazi Text & Open sans',
       primary: 'Markazi Text',
-      secondary: 'Open sans',
-      url: 'https://fonts.googleapis.com/css2?family=Markazi+Text:wght@450&display=swap'
+      secondary: 'Open Sans',
+      url: 'https://fonts.googleapis.com/css2?family=Markazi+Text:wght@400;500&family=Open+Sans:wght@300;400&display=swap'
     },
     {
       title: 'Lora & Merriweather',
@@ -75,41 +75,41 @@ export const fonts = () => {
     {
       title: 'Rancho with shadow-multiple Effect',
       primary: 'Rancho',
-      secondary: 'shadow-multiple',
+      secondary: 'Rancho',
       git: 'camiloibarrayepes',
       url: 'https://fonts.googleapis.com/css?family=Rancho&effect=shadow-multiple'
     },
     {
       title: 'Rancho with shadow-multiple Effect, 3d Float',
       primary: 'Rancho',
-      secondary: 'shadow-multiple',
+      secondary: 'Rancho',
       git: 'camiloibarrayepes',
       url: 'https://fonts.googleapis.com/css?family=Rancho&effect=shadow-multiple|3d-float'
     },
     {
       title: 'Architects Daughter',
-      primary: 'Architects',
-      secondary: 'Daughter',
+      primary: 'Architects Daughter',
+      secondary: 'Architects Daughter',
       git: 'camiloibarrayepes',
       url: 'https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap'
     },
     {
       title: 'Lobster Font',
       primary: 'Lobster',
-      secondary: '',
+      secondary: 'Lobster',
       git: 'camiloibarrayepes',
       url: 'https://fonts.googleapis.com/css2?family=Lobster&display=swap'
     },
     {
       title: 'Fascinate and Red Hat',
       primary: 'Fascinate',
-      secondary: 'RedHat',
+      secondary: 'Red Hat Text',
       git: 'camiloibarrayepes',
       url: 'https://fonts.googleapis.com/css2?family=Fascinate&family=Red+Hat+Text&display=swap'
     },
     {
-      title: 'PressStart2P and Quicksand',
-      primary: 'PressStart2P',
+      title: 'Press Start 2P and Quicksand',
+      primary: 'Press Start 2P',
       secondary: 'Quicksand',
       git: 'goodguygregory',
       url: 'https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Quicksand'
