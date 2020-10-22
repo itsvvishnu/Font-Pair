@@ -113,6 +113,13 @@ export const fonts = () => {
       secondary: 'Quicksand',
       git: 'goodguygregory',
       url: 'https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Quicksand'
+    },
+    {
+      title: 'Grenze Gotisch & Roboto',
+      primary: 'Grenze Gotisch',
+      secondary: 'Roboto',
+      git: 'BillGun',
+      url: 'https://fonts.googleapis.com/css2?family=Grenze+Gotisch&family=Roboto&display=swap'
     }
   ];
 };
