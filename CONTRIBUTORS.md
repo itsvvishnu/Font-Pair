@@ -25,3 +25,6 @@
 #### Name: [Billy Gunawan](https://github.com/BillGun)
 - Bio: Software Engineer
 - Github: [Billy Gunawan](https://github.com/BillGun)
+#### Name: [Suresh Mangs](https://github.com/sureshmangs)
+- Bio: Software Developer
+- Github: [Suresh Mangs](https://github.com/sureshmangs)

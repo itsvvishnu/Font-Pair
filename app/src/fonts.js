@@ -120,6 +120,14 @@ export const fonts = () => {
       secondary: 'Roboto',
       git: 'BillGun',
       url: 'https://fonts.googleapis.com/css2?family=Grenze+Gotisch&family=Roboto&display=swap'
+    },
+    {
+      title: "Hind Madurai & sans-serif",
+      primary: "Hind Madurai",
+      secondary: "sans-serif",
+      git: "sureshmangs",
+      url:
+        "https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@300&display=swap",
     }
   ];
 };
